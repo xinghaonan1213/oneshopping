@@ -1,0 +1,70 @@
+a{text-decoration: none;}
+				
+			header{width: 1338px;
+					height: 70px;
+					/*border: 1px solid black;*/
+					margin: 15px 0 0 0;
+					text-indent:4em;
+					
+					}
+					hr{
+						margin: 0;
+						position: relative;
+						top: -10px;
+						
+					}
+			.you{position: relative;
+				top: -70px;
+				right:-965px;
+				}
+			.q1{/*border: 1px solid black;*/
+				width: 380px;
+				height: 30px;
+				}
+			.you a:link {color:black;}
+			.q1 span a:link {color: cornflowerblue;}	
+			.q1 span{font-size: 14px;
+					/*color: gray;*/}		
+			.you a img{vertical-align: middle;}	
+			.d1{border: 1px solid gray;
+				}
+			
+			.zhong{width: 1500px;
+					height: 450px;
+					/*border: 1px solid black;*/
+					text-align: center;
+					position: relative;
+					top: 80px;
+					
+				}
+			
+			.gao{
+				height: 50px;
+				width: 300px;
+			}
+			.gao2{height: 50px;
+				  width: 200px;	}
+			.bian{height: 55px;
+				  width: 100px;
+				  color: white;
+				  background-color:grey ; 	
+					}
+			.b2{height: 50px;
+				width: 300px;
+			
+				background-color:red;
+				color: white;
+				font-size:16px ;
+			}	
+			.di{color: grey;}
+			.zi{color: darkslategrey;}			
+			.denglu{
+				color: blue;
+			}
+			.bang{
+				color: black;
+				font: 14px "微软雅黑";
+			}
+			.hui{
+				color: gray;
+			}
